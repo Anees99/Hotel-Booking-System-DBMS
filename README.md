@@ -1,6 +1,11 @@
 # Hotel Booking System (DBMS Project)
-
 A Laravel-based Hotel Booking System developed as part of a Database Management Systems course project.
+
+## Core Features
+- Room listing with availability status
+- Customer registration and login
+- Admin dashboard to manage bookings and rooms
+- Room booking system with real-time updates
 
 ##  Deployment
 - Website: https://hotelbooking-production-a87e.up.railway.app/favicon.ico
