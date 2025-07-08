@@ -20,6 +20,10 @@ A Laravel-based Hotel Booking System developed as part of a Database Management 
 - Laravel 10+
 - XAMPP or Laravel Valet (recommended for local setup)
 
+## Project Download
+You can download the full project source code (ZIP) from the link below:
+- https://github.com/FaianAwan/hotel_booking_system
+
 ##  Setup Instructions
 
 1. Clone or Download this repository:
